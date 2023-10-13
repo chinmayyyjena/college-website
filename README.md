@@ -1,2 +1,2 @@
-# college-website
- college
+# College-website
+ Baba Panchalingeswar Degree College, Santaragadia
